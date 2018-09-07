@@ -1,4 +1,4 @@
-package com.example.springkafka;
+package com.example.model;
 
 public class People {
 
